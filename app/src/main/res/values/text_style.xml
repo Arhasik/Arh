@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Timer" parent ="TextAppearance.MaterialComponents.Body1">
+        <item name="android:textSize">15sp</item>
+    </style>
+
+    <style name="Timer.Big">
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="Timer.Huge">
+        <item name="android:textSize">30sp</item>
+    </style>
+
+    <style name="Timer.ReallyHuge">
+        <item name="android:textSize">60sp</item>
+    </style>
+</resources>
